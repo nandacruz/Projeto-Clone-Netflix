@@ -19,5 +19,5 @@ Ferramentas adicionais:
 
 Mais imagens do projeto em "project_imgs"
 
-Instrutor do curso: Felipe Aguiar,Desenvolvedor.
+Instrutor do curso: Felipe Aguiar, Desenvolvedor | Digital Innovation One.
 
