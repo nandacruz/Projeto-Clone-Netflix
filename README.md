@@ -19,5 +19,5 @@ Ferramentas adicionais:
 
 Mais imagens do projeto em "project_imgs"
 
-Coodernador do curso: Felipe Aguiar,Desenvolvedor.
+Instrutor do curso: Felipe Aguiar,Desenvolvedor.
 
