@@ -17,5 +17,7 @@ Ferramentas adicionais:
 - Font Awesome : https://fontawesome.com/
 - Owl Carousel : https://owlcarousel2.github.io/OwlCarousel2/
 
+Mais imagens do projeto em "project_imgs"
+
 Coodernador do curso: Felipe Aguiar,Desenvolvedor.
 
