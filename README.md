@@ -1,5 +1,5 @@
 # Projeto-Clone-Netflix
-Projeto criado durante o curso "Recriando a Interface da Netflix", da Digital Innovation One. :)
+Projeto criado durante o curso "Recriando a Interface da Netflix", da <a href = "https://digitalinnovation.one/"/>Digital Innovation One</a>. :)
 
 <img src="https://github.com/nandacruz/Projeto-Clone-Netflix/blob/main/project_imgs/ntc1.png">
 
