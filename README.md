@@ -10,7 +10,9 @@ Linguagens:
 -JavaScript
 -JQuery
 
-Imagens retiradas de https://www.themoviedb.org/
+Imagens retiradas de:
+
+- The Movie DataBase: https://www.themoviedb.org/
 
 Ferramentas adicionais:
 
