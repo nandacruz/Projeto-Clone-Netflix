@@ -3,23 +3,30 @@ Projeto criado durante o curso "Recriando a Interface da Netflix", da <a href = 
 
 <img src="https://github.com/nandacruz/Projeto-Clone-Netflix/blob/main/project_imgs/ntc1.png">
 
-Linguagens:
+<h2>Conceitos</h2>
 
--HTML5
--CSS3
--JavaScript
--JQuery
+- HTML5
+- CSS3
+- JavaScript
+- JQuery
+- Wrapper
+- Responsividade
+- Eventos em botões
+- Gradient
+- Carrosel
+- FlexBox
 
-Imagens retiradas de:
+<h2>Imagens retiradas de:</h2>
 
-- The Movie DataBase: https://www.themoviedb.org/
+  - <b>The Movie DataBase:</b> https://www.themoviedb.org/ 
 
-Ferramentas adicionais:
+<h2>Ferramentas adicionais</h2>
 
 - Font Awesome : https://fontawesome.com/
 - Owl Carousel : https://owlcarousel2.github.io/OwlCarousel2/
 
 Mais imagens do projeto em "project_imgs"
 
-Instrutor do curso: Felipe Aguiar, Desenvolvedor | Digital Innovation One.
+<h2>Instrutor do curso</h2>
+- Felipe Aguiar, Desenvolvedor | Digital Innovation One.
 
