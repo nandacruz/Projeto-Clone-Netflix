@@ -18,15 +18,16 @@ Projeto criado durante o curso "Recriando a Interface da Netflix", da <a href = 
 
 <h2>Imagens retiradas de:</h2>
 
-  - <b>The Movie DataBase:</b> https://www.themoviedb.org/ 
+  - <b>The Movie DataBase :</b> https://www.themoviedb.org/ 
 
 <h2>Ferramentas adicionais</h2>
 
-- Font Awesome : https://fontawesome.com/
-- Owl Carousel : https://owlcarousel2.github.io/OwlCarousel2/
+- <b>Font Awesome :</b> https://fontawesome.com/
+- <b> Owl Carousel :</b> https://owlcarousel2.github.io/OwlCarousel2/
 
 Mais imagens do projeto em "project_imgs"
 
-<h2>Instrutor do curso</h2>
+<h2>Instrutor</h2>
+
 - Felipe Aguiar, Desenvolvedor | Digital Innovation One.
 
